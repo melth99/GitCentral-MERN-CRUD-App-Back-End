@@ -1,14 +1,19 @@
-# Express JWT Auth Template
+# Welcome to Git Central! :computer:
 
 ## About
 
-This repo is an Express JWT Auth template meant to be paired with a front-end app utilizing JWT tokens.
-
-## Getting started
+## Getting started :open_file_folder:
 
 Fork and clone this repository to your local machine.
 
 After moving into the cloned directory, run `npm i` to download the dependencies.
+
+### Features :mega:
+- User authentication and encryption (sign up, login, logout)
+- Posting text, links, or images within subreddits
+- Upvote system for posts and forums
+- Comment threads with nested replies
+
 
 Create a `.env` file in the root of the project:
 
